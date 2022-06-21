@@ -1,1 +1,5 @@
 Esse é uma arquivo de teste para entender o Git e o GitHub.
+Para salvar "um ponto na linha do tempo" com git, usamos 2 comandos:
+
+-> git add <nome do arquivo>    colocar o arquivo no palco, escolher os arquivos que quero controlar na versão.
+-> git commit -m "mensagem do commit"
